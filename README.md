@@ -1,7 +1,7 @@
 
 # 2SD
 
-this is a 2d plateformer buildt in Godot 4.0 according to the Tutorial of Brackeys YT.
+this is a 2d platformer buildt in Godot 4.0 according to the Tutorial of Brackeys YT.
 
 
 ## Authors
